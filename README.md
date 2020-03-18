@@ -18,3 +18,4 @@ Binary File for Windows (.NET 4.0 needed)
 * Version 2.0.0 release on 31-Dec-2018
 * Version 2.0.1 release on 05-Jan-2019
 * Version 3.0.0 release on 15-Jan-2020
+* Version 3.0.7381 release on 17-March-2020
