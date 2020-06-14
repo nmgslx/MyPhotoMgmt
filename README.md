@@ -2,6 +2,8 @@
 Copyright (c) 2018-2020 Coronabo Code, nmgslx@gmail.com
 Binary File for Windows (.NET 4.0 needed)
 
+![screenshot](2020-06-14_13h05_47.png)
+
 ## How to setup your Bing Map API
 * Get your API key
    1. Go to the [Bing Maps Dev Center](https://www.bingmapsportal.com/)
@@ -23,3 +25,4 @@ Binary File for Windows (.NET 4.0 needed)
 * Version 3.0.7381 release on 17-March-2020
 * version 3.1.* Add TinyWeb Server
 * version 3.2.7470 Add Video support
+
