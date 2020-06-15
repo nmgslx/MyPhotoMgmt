@@ -24,5 +24,5 @@ Binary File for Windows (.NET 4.0 needed)
 * Version 3.0.0 release on 15-Jan-2020
 * Version 3.0.7381 release on 17-March-2020
 * version 3.1.* Add TinyWeb Server
-* version 3.2.7470 Add Video support
+* version 3.2.7471 Add Video support
 
