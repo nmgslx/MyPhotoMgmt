@@ -18,11 +18,21 @@ Binary File for Windows (.NET 4.0 needed)
    * Microsoft.WindowsAPICodePack.dll
    * Microsoft.WindowsAPICodePack.Shell.dll
 
+## Version define
+`ver 3.2.7620`
+
+3 = major version, 
+2 = minor version, 
+7620 = build date (#days from 2000-01-01)
+
 ## Versions
 * Version 2.0.0 release on 31-Dec-2018
 * Version 2.0.1 release on 05-Jan-2019
 * Version 3.0.0 release on 15-Jan-2020
 * Version 3.0.7381 release on 17-March-2020
-* version 3.1.* Add TinyWeb Server
-* version 3.2.7471 Add Video support
+* Version 3.1.* Add TinyWeb Server
+* Version 3.2.7471 Add Video support
+* Version 3.2.7620 (1) Add FolderInfo (`.mymgmt.info`) with Markdown support (2) show folderinfo in TinyWeb
+* Version 3.2.7629 (1) Fix the Tags/Subject etc. editing bug when selected photo changed (2) Using Left & Right arrow to select previous/next photo
+* version 3.2.7698 for each folder, keep markdown text info in file .index.md and media folder is .mymgmt
 
