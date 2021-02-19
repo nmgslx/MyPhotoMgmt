@@ -35,4 +35,5 @@ Binary File for Windows (.NET 4.0 needed)
 * Version 3.2.7620 (1) Add FolderInfo (`.mymgmt.info`) with Markdown support (2) show folderinfo in TinyWeb
 * Version 3.2.7629 (1) Fix the Tags/Subject etc. editing bug when selected photo changed (2) Using Left & Right arrow to select previous/next photo
 * version 3.2.7698 for each folder, keep markdown text info in file .index.md and media folder is .mymgmt
+* version 3.3.7720 (1) fix the browser buttons position issue when scroll the browser window (2) fix the search&filter bugs - "space in tags" and search for no condition (3) add tha boxes in image in browser (4) put search result to subfolder
 
