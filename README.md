@@ -1,8 +1,8 @@
 # MyPhotoMgmt - My Photo Management Tool #
-Copyright (c) 2018-2020 Coronabo Code, nmgslx@gmail.com
+Copyright (c) 2018-2021 Coronabo Code, nmgslx@gmail.com
 Binary File for Windows (.NET 4.0 needed)
 
-![screenshot](2020-06-14_13h05_47.png)
+![screenshot](2021-06-17.png)
 
 ## How to setup your Bing Map API
 * Get your API key
