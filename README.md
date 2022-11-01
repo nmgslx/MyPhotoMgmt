@@ -2,7 +2,7 @@
 Copyright (c) 2018-2021 Coronabo Code, nmgslx@gmail.com
 Binary File for Windows (.NET 4.0 needed)
 
-![screenshot](2021-06-30.png)
+![screenshot](2022-11-01.png)
 
 ## How to setup your Bing Map API
 * Get your API key
@@ -40,4 +40,5 @@ Binary File for Windows (.NET 4.0 needed)
 * version 3.3.7851 (1) support to play mp3 file if (a) existing a matched mp3 file, e.g. abc.mp3 matches abc.jpg, [aaa]bbb.mp3 matches [aaa]ccc.jpg (b) existing a mp3 file which is specified in the subject of photo as format <mp3-file-name>, e.g. the subject of "This is subject <aaa.mp3> ..."  (2) support to play video
 * version 3.3.7855 fixed the face-tag process issue
 * version 3.3.8145 fixed the comment etc length>255, and enable multiple lines in comment
+* Version 3.3.8340 (Nov01'22) (1) set input-box of title/subject/comment/tags max length to 1023 (2) Add the Memo tag
 
