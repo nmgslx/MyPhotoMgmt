@@ -34,11 +34,11 @@ Binary File for Windows (.NET 4.0 needed)
 * Version 3.2.7471 Add Video support
 * Version 3.2.7620 (1) Add FolderInfo (`.mymgmt.info`) with Markdown support (2) show folderinfo in TinyWeb
 * Version 3.2.7629 (1) Fix the Tags/Subject etc. editing bug when selected photo changed (2) Using Left & Right arrow to select previous/next photo
-* version 3.2.7698 for each folder, keep markdown text info in file .index.md and media folder is .mymgmt
-* version 3.3.7720 (1) fix the browser buttons position issue when scroll the browser window (2) fix the search&filter bugs - "space in tags" and search for no condition (3) add tha boxes in image in browser (4) put search result to subfolder
-* version 3.3.7838 added the function to play photo related audio (mp3) file, i.e., a .mp3 file with the same name of photo or part of fille name inside quare brackets [].
-* version 3.3.7851 (1) support to play mp3 file if (a) existing a matched mp3 file, e.g. abc.mp3 matches abc.jpg, [aaa]bbb.mp3 matches [aaa]ccc.jpg (b) existing a mp3 file which is specified in the subject of photo as format <mp3-file-name>, e.g. the subject of "This is subject <aaa.mp3> ..."  (2) support to play video
-* version 3.3.7855 fixed the face-tag process issue
-* version 3.3.8145 fixed the comment etc length>255, and enable multiple lines in comment
+* Version 3.2.7698 for each folder, keep markdown text info in file .index.md and media folder is .mymgmt
+* Version 3.3.7720 (1) fix the browser buttons position issue when scroll the browser window (2) fix the search&filter bugs - "space in tags" and search for no condition (3) add tha boxes in image in browser (4) put search result to subfolder
+* Version 3.3.7838 added the function to play photo related audio (mp3) file, i.e., a .mp3 file with the same name of photo or part of fille name inside quare brackets [].
+* Version 3.3.7851 (1) support to play mp3 file if (a) existing a matched mp3 file, e.g. abc.mp3 matches abc.jpg, [aaa]bbb.mp3 matches [aaa]ccc.jpg (b) existing a mp3 file which is specified in the subject of photo as format <mp3-file-name>, e.g. the subject of "This is subject <aaa.mp3> ..."  (2) support to play video
+* Version 3.3.7855 fixed the face-tag process issue
+* Version 3.3.8145 fixed the comment etc length>255, and enable multiple lines in comment
 * Version 3.3.8340 (Nov01'22) (1) set input-box of title/subject/comment/tags max length to 1023 (2) Add the Memo tag
-
+* Version 3.3.8523 (May03'23) fixed encoding/decoding mismatch bug for tags and subject
