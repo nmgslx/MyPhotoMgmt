@@ -42,3 +42,4 @@ Binary File for Windows (.NET 4.0 needed)
 * Version 3.3.8145 fixed the comment etc length>255, and enable multiple lines in comment
 * Version 3.3.8340 (Nov01'22) (1) set input-box of title/subject/comment/tags max length to 1023 (2) Add the Memo tag
 * Version 3.3.8523 (May03'23) fixed encoding/decoding mismatch bug for tags and subject
+* Version 3.144.9122 (Dec22'24) add symlink icon and search, support region search
